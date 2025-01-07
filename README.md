@@ -3,7 +3,8 @@
 ## Contexte du Projet
 
 "Fruits!" est une start-up innovante dans le secteur de l'AgriTech, ayant pour mission de préserver la biodiversité des fruits grâce au développement de robots cueilleurs intelligents. La société cherche à sensibiliser le grand public à cette biodiversité en mettant à disposition une application mobile permettant aux utilisateurs de prendre des photos de fruits et d’obtenir des informations sur ces fruits. Cette application mobile sera également le point de départ pour la mise en place d'une architecture Big Data capable de gérer une croissance rapide du volume de données.
-Objectifs du Projet
+
+## Objectifs du Projet
 
 L'objectif de cette mission est de compléter une chaîne de traitement de données dans un environnement Big Data sur le Cloud (AWS EMR ou Databricks), en vue de créer une infrastructure évolutive pour traiter les données de l’application mobile et préparer le passage à l’échelle. Il ne s'agit pas d’entraîner un modèle pour le moment, mais de créer les premières briques de traitement qui seront nécessaires pour gérer un grand volume de données à l'avenir.
 
